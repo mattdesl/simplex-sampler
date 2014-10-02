@@ -4,6 +4,8 @@
 
 a simplex noise sampler util
 
+(experimental package, subject to change)
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/simplex-sampler.png)](https://nodei.co/npm/simplex-sampler/)
