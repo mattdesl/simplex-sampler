@@ -1,0 +1,28 @@
+{
+  "name": "simplex-sampler",
+  "version": "1.0.0",
+  "description": "a simplex noise sampler util",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com"
+  },
+  "dependencies": {
+    "clamp": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "~2.13.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/simplex-sampler.git"
+  },
+  "homepage": "https://github.com/mattdesl/simplex-sampler",
+  "bugs": {
+    "url": "https://github.com/mattdesl/simplex-sampler/issues"
+  }
+}
